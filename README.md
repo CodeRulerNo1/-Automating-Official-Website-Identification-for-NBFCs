@@ -1,4 +1,12 @@
-# -Automating-Official-Website-Identification-for-NBFCs(Use find_websites function)
+# -Automating-Official-Website-Identification-for-NBFCs
+Required Libraries:
+1.)pandas (py -m pip install pandas)
+2.)googlesearch (py -m pip install googlesearch)
+3.)os
+
+In main.py, use find_websites function which requires 1 parameteer which denotes the path of the excel file.
+A file named Output.xlsx will be produced which gives out the required information with website name.
+
 Project Overview: Automating Official Website Identification for NBFCs
 Objective:
 The primary goal of this project is to develop a program that automates the process of
